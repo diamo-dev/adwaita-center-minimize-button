@@ -11,7 +11,7 @@ It annoyed me too.
 1. Download "Center Minimize Button.sh"
 2. Locate "Center Minimize Button.sh" in the Downloads folder
 3. Right click the file, select "Properties" and toggle "Executable as Program" to the 'on' state
-4. Right click the file once more, and press "Run as Program"
+4. Right click the file once more, and press "Run as a Program"
 5. Enter your `sudo` password
 6. Restart the system for the changes to take effect
 7. Optionally, you can delete "Center Minimize Button.sh" to save disk space
